@@ -17,7 +17,6 @@ dependencies = []
 [tool.setuptools.packages.find]
 where = ["src"]
 bahram
-qamar 
 hossein 
 good idea
 hossein
