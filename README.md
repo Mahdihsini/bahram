@@ -12,7 +12,6 @@ description = "A simple CLI template"
 authors = [{name="Your Name"}]
 readme = "README.md"
 requires-python = ">=3.8"
-dependencies = []
 
 [tool.setuptools.packages.find]
 where = ["src"]
