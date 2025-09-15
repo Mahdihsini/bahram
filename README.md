@@ -4,7 +4,6 @@
 [build-system]
 requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
-bahram
 [project]
 name = "mycli"
 version = "0.1.0"
