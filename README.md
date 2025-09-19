@@ -11,7 +11,7 @@ description = "A simple CLI template"
 authors = [{name="Your Name"}]
 readme = "README.md"
 requires-python = ">=3.8"
-
+hello bahram
 [tool.setuptools.packages.find]
 where = ["src"]
 bahram
