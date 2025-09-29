@@ -18,5 +18,3 @@ bahram
 hossein 
 good idea
 hossein
-nice
-have a nice day
