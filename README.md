@@ -16,4 +16,4 @@ hello bahram
 where = ["src"]
 bahram
 hossein 
-"Explain how Gemini differs from OpenAI GPT models."
+
