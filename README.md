@@ -15,5 +15,3 @@ hello bahram
 [tool.setuptools.packages.find]
 where = ["src"]
 bahram
-hossein 
-
